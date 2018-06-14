@@ -1,0 +1,4 @@
+com\anil\microservices\limitsservice\config\Configuration.class
+com\anil\microservices\limitsservice\model\LimitConfiguration.class
+com\anil\microservices\limitsservice\resource\LimitConfigurationController.class
+com\anil\microservices\limitsservice\LimitsServiceApplication.class
